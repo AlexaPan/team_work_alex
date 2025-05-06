@@ -1,0 +1,140 @@
+[33mcommit aad60ecb1ae43b2292fc3faaf64b5d32e6da23ea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mAlexanPan[m[33m, [m[1;31morigin/AlexanPan[m[33m)[m
+Author: AlexaPan <xvspan@gmail.com>
+Date:   Tue Apr 29 14:29:59 2025 +0300
+
+    code changed
+
+[33mcommit 6bcdd7bea016ed21b1527e7212808e2fd802eafa[m
+Merge: 74bbb1d 0c8c0b9
+Author: AlexaPan <xvspan@gmail.com>
+Date:   Tue Apr 29 14:29:30 2025 +0300
+
+    Merge branch 'main' into AlexanPan
+
+[33mcommit 74bbb1d28c934bddd2126cd1aa13aba83287ac36[m
+Author: AlexaPan <xvspan@gmail.com>
+Date:   Tue Apr 29 13:57:08 2025 +0300
+
+    code changed
+
+[33mcommit 8e8166511ccf1e373fd7eb07281fe3877ca30edc[m
+Author: AlexaPan <xvspan@gmail.com>
+Date:   Mon Apr 28 23:45:05 2025 +0300
+
+    changed code in my part
+
+[33mcommit 0f8538f7b673e4168aa42ac288e415f7e01cdaba[m
+Author: AlexaPan <xvspan@gmail.com>
+Date:   Mon Apr 28 22:23:32 2025 +0300
+
+    add changes
+
+[33mcommit 0c8c0b99aab00a202b5b432394f7642672cd8865[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Dema267 <demademin292@gmail.com>
+Date:   Mon Apr 28 20:25:07 2025 +0300
+
+    add
+    
+    Aleks sait
+
+[33mcommit f0ef56c67b408aed1caea70c1d3f4d81b85849d2[m
+Merge: 17139db 2f2d7d9
+Author: Dema267 <demademin292@gmail.com>
+Date:   Mon Apr 28 20:23:08 2025 +0300
+
+    Merge branch 'main' of https://github.com/Dema267/team_work
+
+[33mcommit 17139dbaa06bc58da8ba74791c9b5248199bcccf[m
+Author: Dema267 <demademin292@gmail.com>
+Date:   Mon Apr 28 20:22:56 2025 +0300
+
+    add Aleks
+
+[33mcommit 2f2d7d92b2bb3a10668f7ba9663bfefce26f1191[m
+Merge: 304ab33 3c7a7b3
+Author: Dema267 <demademin292@gmail.com>
+Date:   Mon Apr 28 20:20:33 2025 +0300
+
+    Merge pull request #1 from Dema267/aleks_nov
+    
+    Aleks nov
+
+[33mcommit 9d7c84f3732b92056fbbe9b774010be08576dbaf[m
+Author: AlexaPan <xvspan@gmail.com>
+Date:   Mon Apr 28 20:01:01 2025 +0300
+
+    added code into database.py
+
+[33mcommit ad29c56f994b27f47ea3c1cbf30d365c2cd0c376[m
+Author: AlexaPan <xvspan@gmail.com>
+Date:   Mon Apr 28 14:04:56 2025 +0300
+
+    merge with main
+
+[33mcommit 3c7a7b37588c9d0c64f9af0aadf1f30a582bc8e5[m[33m ([m[1;31morigin/aleks_nov[m[33m)[m
+Merge: e08ce42 304ab33
+Author: Relayn <aleksnovop@gmail.com>
+Date:   Sun Apr 27 10:42:14 2025 +0700
+
+    Merge remote-tracking branch 'origin/aleks' into aleks
+    
+    # Conflicts:
+    #       job_parser/app/__init__.py
+    #       job_parser/app/routes.py
+    #       job_parser/app/templates/vacancies.html
+
+[33mcommit c048f04d47b9bda90e62394f86e1427c1621eb1e[m
+Merge: 391a25a 304ab33
+Author: AlexaPan <xvspan@gmail.com>
+Date:   Sat Apr 26 21:13:34 2025 +0300
+
+    Merge branch 'main' into AlexanPan
+
+[33mcommit 304ab33a719a821b14f5406d4280e22c4b4cdb98[m[33m ([m[1;31morigin/aleks[m[33m)[m
+Author: Dema267 <demademin292@gmail.com>
+Date:   Sat Apr 26 17:07:41 2025 +0300
+
+    add
+
+[33mcommit e08ce424a5d474fb93a01b44630cd5992b553842[m
+Author: Relayn <aleksnovop@gmail.com>
+Date:   Sat Apr 26 16:20:53 2025 +0700
+
+    Set up basic web interface: added Flask routes and templates,
+
+[33mcommit 6ea5b750b34ccbfeab21d219489a2a0af28282ce[m
+Merge: 6bf4678 68db1ff
+Author: Relayn <aleksnovop@gmail.com>
+Date:   Sat Apr 26 15:53:44 2025 +0700
+
+    Merge branch 'main' into aleks_nov
+
+[33mcommit 68db1ff6410a2a0d228d28018aa7dfec5e8808df[m
+Author: Dema267 <demademin292@gmail.com>
+Date:   Thu Apr 24 21:09:29 2025 +0300
+
+    add code HH
+
+[33mcommit 391a25a50a8be7b869634f47315300b6b229d808[m
+Author: Dema267 <demademin292@gmail.com>
+Date:   Thu Apr 24 19:55:47 2025 +0300
+
+    add structure
+
+[33mcommit 6bf467888f2383475f4db30433a65356e7c3de69[m
+Author: Dema267 <demademin292@gmail.com>
+Date:   Thu Apr 24 19:55:07 2025 +0300
+
+    add structure
+
+[33mcommit 9d057a9889d03573aafa770859dfcb131e3701bb[m
+Author: Dema267 <demademin292@gmail.com>
+Date:   Thu Apr 24 19:31:42 2025 +0300
+
+    add  structure
+
+[33mcommit 75a50520ec235c2de28faabfbd95a097d4386ff9[m
+Author: Dema267 <demademin292@gmail.com>
+Date:   Thu Apr 24 19:24:27 2025 +0300
+
+    Initial commit
